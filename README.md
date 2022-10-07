@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kaziwa-H
+- 👀 I’m interested in Web designing, electronics and machinery
+- 🌱 I’m currently learning HTML, Python, JAVA and PHP
